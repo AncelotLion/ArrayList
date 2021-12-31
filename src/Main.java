@@ -19,7 +19,7 @@ public class Main {
         //food.clear();
         //Строка 19 - удаление значений
 
-        for(int i = 0; i < food.size(); i++) {
+        for(int i = 0; i<food.size(); i++) {
             System.out.println(food.get(i));
         }
     }
